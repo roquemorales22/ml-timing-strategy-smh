@@ -16,18 +16,6 @@ A machine learning project exploring whether technical and volatility-based feat
 
 ---
 
-## 📊 Key Results
-
-| Metric | Value |
-|--------|-------|
-| Class-1 F1 (test) | *[fill in from latest run]* |
-| Majority-baseline F1 (comparison) | *[fill in from latest run]* |
-| Model-guided vs. naive ROI (test period) | *[fill in from latest run]* |
-
-**Note:** results are dependent on the data pull date and re-training run — re-run the notebook end-to-end and update this table before sharing, rather than treating any single run's numbers as fixed.
-
----
-
 ## 🗂 Project Structure
 
 - `main_notebook.ipynb` — Full pipeline: data collection, feature engineering, model training/selection, and backtesting
