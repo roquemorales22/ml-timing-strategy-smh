@@ -19,13 +19,12 @@ A machine learning project exploring whether technical and volatility-based feat
 ## 🗂 Project Structure
 
 - `main_notebook.ipynb` — Full pipeline: data collection, feature engineering, model training/selection, and backtesting
-- `data/` — Cached price data snapshot (if frozen for reproducibility)
 
 ---
 
 ## ⚙️ Tech Stack
 
-Python · Pandas · NumPy · Scikit-learn · XGBoost · CatBoost · Arch (GARCH) · Matplotlib
+Python · Pandas · NumPy · Scikit-learn · XGBoost · CatBoost · Arch (GARCH) · Seaborn · Matplotlib
 
 ---
 
